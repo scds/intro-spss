@@ -40,7 +40,7 @@ The content that appears on the module website (e.g. https://scds.github.io/intr
 The subsections below outline the various documents and folders that can be edited to manage content: 
 
 ### Content / workshop pages
-* **Add content** to the pages listed below. *Note*: Content has been included in the files as an example, but it is currently block-commented out with ```<!--``` and ```-->``` at the start and end, respectively. Edit content and replace links as needed. 
+1. **Add content** to the pages listed below. *Note*: Content has been included in the files as an example, but it is currently block-commented out with ```<!--``` and ```-->``` at the start and end, respectively. Edit content and replace links as needed. 
 
 ```index.md```
 - Edit the link to the title image 
@@ -58,7 +58,7 @@ The subsections below outline the various documents and folders that can be edit
 - Add content
 
 ### Content directories
-* **Add content** to the following directories and link to those files (in the GitHub repositories) in the markdown (.md) files outlined above.
+1. **Add content** to the following directories and link to those files (in the GitHub repositories) in the markdown (.md) files outlined above.
 
 ```assets/docs```
 - Add any PDFs (slides, worksheets, etc.) that you will either embed or link to in the main text
@@ -69,5 +69,3 @@ The subsections below outline the various documents and folders that can be edit
 
 ```data/```
 - Add any datasets or other files that are required for the workshop.
-
-
