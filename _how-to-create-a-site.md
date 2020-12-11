@@ -10,7 +10,7 @@ Follow these steps to create a new workshop website from this template repositor
 - Full instructions (from GitHub) [here](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template).
 
 ## 2. Ensure proper access
-1. Add any external collaborators to the repository (Settings > Access). Give them **Maintainer** privileges.
+* Add any external collaborators to the repository (Settings > Access). Give them **Maintainer** privileges.
 
 ## 3. Configure GitHub Pages
 1. In the new repository, go to **Settings > GitHub Pages**
@@ -40,7 +40,7 @@ The content that appears on the module website (e.g. https://scds.github.io/intr
 The subsections below outline the various documents and folders that can be edited to manage content: 
 
 ### Content / workshop pages
-**Add content** to the pages listed below. *Note*: Content has been included in the files as an example, but it is currently block-commented out with ```<!--``` and ```-->``` at the start and end, respectively. Edit content and replace links as needed. 
+* **Add content** to the pages listed below. *Note*: Content has been included in the files as an example, but it is currently block-commented out with ```<!--``` and ```-->``` at the start and end, respectively. Edit content and replace links as needed. 
 
 ```index.md```
 - Edit the link to the title image 
@@ -58,7 +58,7 @@ The subsections below outline the various documents and folders that can be edit
 - Add content
 
 ### Content directories
-**Add content** to the following directories and link to those files (in the GitHub repositories) in the markdown (.md) files outlined above.
+* **Add content** to the following directories and link to those files (in the GitHub repositories) in the markdown (.md) files outlined above.
 
 ```assets/docs```
 - Add any PDFs (slides, worksheets, etc.) that you will either embed or link to in the main text
