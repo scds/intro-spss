@@ -1,7 +1,7 @@
 # Introduction to SPSS
 Materials for the DASH tutorial: **Introduction to SPSS**  
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/intro-SPSS) with GitHub Pages   
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/intro-SPSS/) with GitHub Pages   
 
 
 Contributions by the following individuals: 
