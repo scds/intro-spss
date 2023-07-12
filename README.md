@@ -1,14 +1,11 @@
-# Introduction to SPSS
-Materials for the DASH tutorial: **Introduction to SPSS**  
+# << ENTER WORKSHOP NAME HERE >>
+Materials for the DASH workshop: **Introduction to SPSS**  
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/intro-SPSS/) with GitHub Pages   
-
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/intro-spss/) with GitHub Pages. 
 
 Contributions by the following individuals: 
-- Workshop content created by Allison Leanage
-- Content edited for online use by Allison Leanage
-- Online pages created by Allison Leanage 
+- Workshop content created by Vivek Jadon 
+- Content edited for online use by Richie Motorgeanu 
+- Online pages created by Richie Motorgeanu
 
-
-  
-All content is made available under a GNU General Public License v3.0.
+All content is made available under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
