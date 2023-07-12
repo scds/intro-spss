@@ -24,6 +24,11 @@ Add, edit, or remove any content below for the workshop in question.
 
 SPSS, which stands for Statistical Product and Service Solutions, is a powerful statistical software used for data analysis in business, health care, and social science research. It is sometimes also called PASW, or Predictive Analysis Software.
 
+SPSS is great for:
+- Processing questionnaires
+- Reporting in tables and graphs
+- Analyzing means, Chi-Squared tests, regressional analysis, and much more!
+
 ### History of SPSS
 
 SPSS was originally developed in 1968 by Norman H. Nie, Dale H. Bent, and C. Handlai Hull, who later incorporated as SPSS Inc in 1975. Originally, SPSS stood for "Statistical Package for the Social Sciences". The earliest versions of SPSS were designed only for mainframe computers, using punch cards for data and input.
