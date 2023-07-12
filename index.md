@@ -1,19 +1,32 @@
 ---
 layout: home
 title: Home
-description: A Data Analysis Support Hub Tutorial
 nav_order: 1
+has_toc: false
+
+# Set this to "false" if you removed 'previousOffering.md'
+has_children: true 
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
+<img src="assets/img/titleSlide.png" alt="Workshop Title Slide" width="100%">
 
-<!--
-<img src="assets/img/dmds-tableau.png" alt="Workshop Title Slide" width="720">
+# Introduction to SPSS
 
-# Welcome to Data Visualization with Tableau. 
+This beginner-level workshop will introduce you to the basics of SPSS statistical software, how it works, and some basic descriptive statistics and statistical procedures. No prior knowledge of SPSS is required.
 
-You might not think of numbers and locations as Humanities data, but it all depends on how you use them! Working with numeric and spatial data, you will learn how to create visualizations in [Tableau](https://www.tableau.com/).
+## Prerequisites
+- Download [IBM SPSS]() (this will be covered in the Preparation page)
+- Download the data files (this will be covered in the Preparation page)
 
-Proceed to the [Preparation](preparation) page to get started.
--->
+## Learning Objectives
+By the end of this workshop, you will be able to:
+- SPSS Background
+- SPSS Environment
+- Reading and Preparing Data
+- Descriptive Statistics
 
+## Duration
+This module will take around 1-2 hours, however feel free to work at your own pace!
+
+## Land Acknowledgement
+We'd like to acknowledge that McMaster University sits on the Territories of the Mississauga and Haudenosaunee Nations, and within the lands protected by the Dish With One Spoon wampum agreement.

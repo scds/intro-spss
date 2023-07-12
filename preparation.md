@@ -3,28 +3,39 @@ layout: default
 title: Preparation
 nav_order: 2
 ---
-
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
-
-
-<!--
-
-# Workshop preparation 
-
-Preparation for this tutorial consists of two steps: [Getting the data](#get-the-data) and [Getting the software](#get-the-software). Follow the steps below. 
-  
-## Get the data
-
-You will have an opportunity to download the data during the workshop; however, if you would like to do so ahead of time, it can be downloaded [here](https://github.com/scds/intro-tableau/raw/main/data/humdata_GHGEmissionsGES.xlsx).
-
-## Get the software
-This hands-on workshop uses [**Tableau**](https://www.tableau.com/), a software application for data visualization. We ask that you download Tableau in advance of the workshop to be able to participate in it to the fullest extent.
-
-You have three options for downloading Tableau:
-1. [Tableau Public](https://public.tableau.com/en-us/s/) (limited version)
-2. A 14-day trial of [Tableau Desktop](https://www.tableau.com/products/trial)
-3. A 1-year instructor or student license for [Tableau Desktop for academic purposes](https://www.tableau.com/academic/teaching) 
-
-The three options will be discussed further during the workshop; for now, we recommend Tableau Public or the 14-day trial of Tableau Desktop. Please contact the [Sherman Centre](mailto:scds@mcmaster.ca) if you have any difficulties downloading or opening the software.
-
+<!-- 
+(OPTIONAL) This will be the page going over any installation or registration requirements.
+Add, edit, or remove any content below for the workshop in question. 
 -->
+
+# Workshop preparation
+
+## 1. Install IBM SPSS Statistics
+
+{: .warning}
+> IBM SPSS Statistics no longer supports the Linux platform.
+
+IBM SPSS Statistics is a premium product, but there are several ways to access the program.
+
+### Free Trial of IBM SPSS Statistics
+
+IBM offers a free 30-day trial for IBM SPSS Statistics, after which you'll need to buy a premium license. This trial version of SPSS contains all features, including add-ons. Take note that you'll need to be connected to the internet while you're using the program.
+
+To get a free trial:
+- Navigate to <https://www.ibm.com/products/spss-statistics>.
+- Click on the button labeled `Try it now`.
+<img src="assets/img/preparation/prep1.png" alt="" width="100%" style="border: solid 2px black">
+- Create an account or log in with an existing IBM account.
+- After verifying your account, you will be able to download the SPSS client. Download and follow the instructions given.
+
+### SPSS 2023 Individual Premium Campus Edition
+
+Alternatively, [The Campus Store](https://campusstore.mcmaster.ca/computers/software-licences.html) offers an Individual Premium Campus Edition license that expires at the end of each year.   
+
+## 2. Download the datasets
+
+Throughout the module, we will be using these datasets to test out some of the features SPSS has to offer.
+
+- [demo.sav](data/demo.sav)
+- [demo.txt](data/demo.txt)
+- [demo.xlsx](data/demo.xlsx)
