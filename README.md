@@ -1,4 +1,4 @@
-# << ENTER WORKSHOP NAME HERE >>
+# Introduction to SPSS
 Materials for the DASH workshop: **Introduction to SPSS**  
 
 This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/intro-spss/) with GitHub Pages. 
