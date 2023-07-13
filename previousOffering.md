@@ -8,7 +8,6 @@ parent: Home
 <!-- If you still want to provide access to old workshop recordings, this is the place! Full-length live workshop videos go here. -->
 <!-- If you decide you don't need it, delete this page AND go to 'index.md', set has_children to false. -->
 
-
 # Previous Offerings
 
 {: .warning }
@@ -17,21 +16,25 @@ Workshop live recordings are listed here. They are provided as an **alternative*
 <!-- ----------------------------------------------------------------- -->
 
 <details markdown="1">
-<summary>Month Year</summary> <!-- Change "Month Year" with the date of the recording ---> 
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/60aeca91-1d04-493f-a94e-ee733efa3520/public"></iframe>
-[View original here.](https://echo360.ca/media/60aeca91-1d04-493f-a94e-ee733efa3520/public)
+<summary>December 2021</summary> <!-- Change "Month Year" with the date of the recording ---> 
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/cdb3d78a-0097-41d5-907b-1849254c879f/public"></iframe>
+[View original here.](https://echo360.ca/media/cdb3d78a-0097-41d5-907b-1849254c879f/public)
 
-<embed src="assets/docs/examplePDF.pdf" style="border:none;" width="100%" height="466px">
-[Download as PDF.](assets/docs/examplePDF.pdf)
+### Download data:  
+- [demo.sav](data/demo.sav)
+- [demo.txt](data/demo.txt)
+- [demo.xlsx](data/demo.xlsx)
+
 </details>
 
 <!-- ----------------------------------------------------------------- -->
 
 <details markdown="1">
-<summary>Month Year</summary>
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/60aeca91-1d04-493f-a94e-ee733efa3520/public"></iframe>
-[View original here.](https://echo360.ca/media/60aeca91-1d04-493f-a94e-ee733efa3520/public)
+<summary>October 2020</summary>
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/6a02fc27-7bee-4395-90b6-ad1a046ac437/public"></iframe>
+[View original here.](https://echo360.ca/media/6a02fc27-7bee-4395-90b6-ad1a046ac437/public)
 
-<embed src="assets/docs/examplePDF.pdf" style="border:none;" width="100%" height="466px">
-[Download as PDF.](assets/docs/examplePDF.pdf)
+[Download data from \<odesi\>](http://odesi2.scholarsportal.info/webview/)  
+<img src="assets/img/prevOfferings/offer1.png" alt="" width="75%" style="border: solid 2px black">
+
 </details>
