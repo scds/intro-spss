@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lesson 2 - Lesson Name
+title: Lesson 2 - Opening and Importing Data into SPSS 
 nav_order: 2
 parent: Lessons
 ---
@@ -37,7 +37,7 @@ The following video demonstrates each of the steps outlined below in text.
 - If an Output Window pops up, minimize it for now.
   <img src="../assets/img/lessons/open2.png" alt="" width="75%" style="border: solid 2px black">
 
-You should now see the Data Editor, which consists of the Data View and Variable View.
+You should now have your SPSS Data Document open.
 
 ## Importing Excel Files (.xlsx)
 
@@ -80,30 +80,35 @@ If you mess around with the data, you'll notice that it's tab delimited. This'll
 
 A "Text Import Wizard" will pop up to prompt you with questions about the data.
 
+{: .no_toc }
 ### Step 1
 
 If you've used the Text Wizard before, you're able to export the settings to a TextWizard Predefined Format file. Since this is our first time, we'll want to say `No` and click `Next`.
 
 <img src="../assets/img/lessons/open8.png" alt="" width="60%" style="border: solid 2px black">
 
+{: .no_toc }
 ### Step 2
 
 Our data is delimited by tabs, with the first line in the data being our variable names. We're also using a period (.) for our decimal symbol. 
 
 <img src="../assets/img/lessons/open9.png" alt="" width="60%" style="border: solid 2px black">
 
+{: .no_toc }
 ### Step 3
 
 The data starts on line 2, with each line representing one participant (or one case), and we want to import all the cases. You can also import the first X cases, or a random percentage of the data.
 
 <img src="../assets/img/lessons/open10.png" alt="" width="60%" style="border: solid 2px black">
 
+{: .no_toc }
 ### Step 4
 
 This is where we can choose our delimiter and get rid of our extra spaces.
 
 <img src="../assets/img/lessons/open11.png" alt="" width="60%" style="border: solid 2px black">
 
+{: .no_toc }
 ### Step 5
 
 You might have received a warning message regarding invalid variable names. There are some limitations to variable names.
@@ -119,6 +124,7 @@ You might have received a warning message regarding invalid variable names. Ther
 
 After clicking `OK`, you're given the chance to set the variable types and to rename the variables. For now, we'll leave them as automatic and click `Next`.
 
+{: .no_toc }
 ### Step 6
 
 Finally, your data is imported. You're given the option to save the file format as a TextWizard Predefined Format file. This is particularly useful if you have multiple files to import with the same formatting.
