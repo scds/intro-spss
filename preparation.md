@@ -57,5 +57,5 @@ Alternatively, [The Campus Store](https://campusstore.mcmaster.ca/computers/soft
 Throughout the module, we will be using these datasets to test out some of the features SPSS has to offer.
 
 - [demo.sav](data/demo.sav)
-- [demo.txt](data/demo.txt)
+- <a href="data/demo.txt" download>demo.txt</a>
 - [demo.xlsx](data/demo.xlsx)
