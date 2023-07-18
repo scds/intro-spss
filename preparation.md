@@ -20,7 +20,7 @@ Alternatively, you can use use your own license and install it locally.
 <summary>Virtual Desktop Instructions</summary>
 
 {: .note }
-You must be connected to the [McMaster VPN](https://uts.mcmaster.ca/services/computers-printers-and-software/virtual-private-networking/) to access this service. 
+You might need to be connected to the [McMaster VPN](https://uts.mcmaster.ca/services/computers-printers-and-software/virtual-private-networking/) to access this service. 
 
 To access the university computers:
 - Navigate to <https://uts.mcmaster.ca/services/teaching-and-learning/computer-labs/virtual-desktop/>
@@ -48,7 +48,7 @@ To get a free trial:
 - Create an account or log in with an existing IBM account.
 - After verifying your account, you will be able to download the SPSS client. Download and follow the instructions given.
 
-Alternatively, [The Campus Store](https://campusstore.mcmaster.ca/computers/software-licences.html) offers an Individual Premium Campus Edition license that expires at the end of each year.   
+Alternatively, [The Campus Store](https://campusstore.mcmaster.ca/computers/software-licences.html) offers an Individual Premium Campus Edition license for purchase that expires at the end of each year.   
 
 </details>
 

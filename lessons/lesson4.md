@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Lesson 4 - Descriptive Analytics
+title: Lesson 4 - Descriptive Statistics
 nav_order: 4
 parent: Lessons
 ---
 
 {: .no_toc}  
-# Lesson 4 - Descriptive Analytics
+# Lesson 4 - Descriptive Statistics
 
-In this lesson, we will explore the data editor. In particular, we'll talk about some of the settings available for variables, and viewing data in the data view.
+In this lesson, we will use descriptive statistics on our data to get summaries and find relationships between variables.
 
 <details markdown="block">
   <summary>
@@ -20,7 +20,10 @@ In this lesson, we will explore the data editor. In particular, we'll talk about
 </details>
 
 ## Lesson Objectives
-- 
+- Create frequency tables
+- Use cross tabulation to find potential relationships between variables
+- Use the Pearson chi-squared test to test the significance of relationships
+- Design charts using the Chart Builder
 
 <!-- ## Lesson Video
 The following video demonstrates each of the steps outlined below in text.
@@ -34,7 +37,7 @@ Descriptive statistics in data analysis summarize or describe features of a data
 
 There are many reasons to look at descriptive statistics, such as:
 - To double check if the data is correct
-  - E.g., encountering unexpected values when creating a frequency table
+  - E.g. encountering unexpected values when creating a frequency table
 - To explore data and identify potential group differences and associations
 - To get a summary of variables
 
@@ -135,7 +138,7 @@ Despite there being a relationship between a person's income and PDA ownership, 
 
 The test we will be using in this example is the Pearson chi-squared test. This will generate a p-value which, if it's under less than 0.05, lets us know that there's a significance in the relationship.
 
-To use the Pearon chi-squared test, open the crosstab menu as usual. Open the `Statistics...` menu and select `Chi-square`.
+To use the Pearson chi-squared test, open the crosstab menu as usual. Open the `Statistics...` menu and select `Chi-square`.
 
 <img src="../assets/img/lessons/stats17.png" alt="" width="80%" style="border: solid 2px black">
 
@@ -203,4 +206,5 @@ After configuring the variable details in the variable view, you will be able to
 <img src="../assets/img/lessons/stats28.png" alt="" width="100%" style="border: solid 2px black">
 
 ## Key Points / Summary
-- 
+- Use cross tabulation to find potential relationships between variables
+- Significance testing is important to see if variable relationships are valid

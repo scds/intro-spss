@@ -15,7 +15,11 @@ Add, edit, or remove any content below for the workshop in question.
 
 <!-- Recap your learning objectives from the introductory. -->
 You should now be able to:
-- learning obj
+- Understand what SPSS can be used for
+- Import data of various file types and from different software into SPSS
+- Use the data editor to organize and view data
+- Apply descriptive statistic functions to your data sets
+- Create charts using existing data and computed variables
 
 <!-- This is where you can add additional resources for your readers. -->
 # Additional Resources
@@ -24,3 +28,4 @@ To learn more about any particular topic, take a look at the links below.
 ## Topics
 
 ## Related Workshops
+
