@@ -21,6 +21,8 @@ Add, edit, or remove any content below for the workshop in question.
 [Download slides here.](assets/docs/twineIntro.pdf) -->
 
 ## What is SPSS?
+<br>
+<img src="assets/img/intro1.jpg" width="30%" alt="IBM SPSS logo">
 
 SPSS, which stands for Statistical Product and Service Solutions, is a powerful statistical software used for data analysis in business, health care, and social science research. It is sometimes also called PASW, or Predictive Analysis Software.
 

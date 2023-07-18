@@ -38,8 +38,9 @@ There are many reasons to look at descriptive statistics, such as:
 - To explore data and identify potential group differences and associations
 - To get a summary of variables
 
-To find a list of descriptive statistics that SPSS supports, go to `Analyze` > `Descriptive Statistics`.
-<img src="../assets/img/lessons/stats1.png" alt="" width="70%" style="border: solid 2px black">
+To find a list of descriptive statistics that SPSS supports, go to `Analyze` > `Descriptive Statistics`.  
+
+<img src="../assets/img/lessons/stats1.png" alt="" width="80%" style="border: solid 2px black">
 
 ## Frequency Tables
 
@@ -68,9 +69,9 @@ When you're done taking a look at the tables, close or minimize the output windo
 
 You can create additional charts based on the table data by clicking on the `Charts...` button and selecting the type of chart you'd like to create.
 
-<img src="../assets/img/lessons/stats5.png" alt="" width="80%" style="border: solid 2px black">
+<img src="../assets/img/lessons/stats5.png" alt="" width="90%" style="border: solid 2px black">
 
-<img src="../assets/img/lessons/stats6.png" alt="" width="80%" style="border: solid 2px black">
+<img src="../assets/img/lessons/stats6.png" alt="" width="60%" style="border: solid 2px black">
 
 ### Frequency Tables for Scale Variables
 
@@ -79,9 +80,6 @@ You can also create frequency tables for scale variables. To showcase this, clos
 Reset the variables by clicking on `Reset`, and then select the `income` variable. 
 
 <img src="../assets/img/lessons/stats7.png" alt="" width="80%" style="border: solid 2px black">
-
-{: .warning }
-Scale variables are represented by a ruler icon. If `income` doesn't have this icon, take the chance now to change the `income` variable to scale in the Variable View.
 
 Alongside our frequency table, let's create some other descriptive statistics. 
 
@@ -105,29 +103,29 @@ In this section, we'll try to find the factor that affects PDA ownership.
 
 To create a crosstab, go to `Analyze` > `Descriptive Analytics` > `Crosstabs...`.
 
-<img src="../assets/img/lessons/stats11.png" alt="" width="100%" style="border: solid 2px black">
+<img src="../assets/img/lessons/stats11.png" alt="" width="90%" style="border: solid 2px black">
 
 Let's see whether the income category affects PDA ownership. To do so, add `inccat` to be the `Row` and `ownpda` to be the `Column`. 
 
-<img src="../assets/img/lessons/stats12.png" alt="" width="100%" style="border: solid 2px black">
+<img src="../assets/img/lessons/stats12.png" alt="" width="90%" style="border: solid 2px black">
 
 Once you're ready, click on `OK` to create the crosstab.
 
-<img src="../assets/img/lessons/stats13.png" alt="" width="100%" style="border: solid 2px black">
+<img src="../assets/img/lessons/stats13.png" alt="" width="90%" style="border: solid 2px black">
 
 At first glance, it's hard to analyze this data or to draw a relationship between the variables. This is because we're working with frequency numbers rather than percentages.
 
 Close the output window and let's create another crosstab. We'll keep our variables the same, but we'll change a setting in the `Cells` menu.
 
-<img src="../assets/img/lessons/stats14.png" alt="" width="100%" style="border: solid 2px black">
+<img src="../assets/img/lessons/stats14.png" alt="" width="90%" style="border: solid 2px black">
 
 In the `Cells` menu, we'll want to enable percentages for our row. 
 
-<img src="../assets/img/lessons/stats15.png" alt="" width="100%" style="border: solid 2px black">
+<img src="../assets/img/lessons/stats15.png" alt="" width="70%" style="border: solid 2px black">
 
 Once you're done, click `Continue` and `OK`.
 
-<img src="../assets/img/lessons/stats16.png" alt="" width="100%" style="border: solid 2px black">
+<img src="../assets/img/lessons/stats16.png" alt="" width="70%" style="border: solid 2px black">
 
 Now that we're able to view our data in terms of percentages, we can see more clearly that as a person's income increases, the percentage of people that own a PDA also increases.
 
@@ -139,11 +137,11 @@ The test we will be using in this example is the Pearson chi-squared test. This 
 
 To use the Pearon chi-squared test, open the crosstab menu as usual. Open the `Statistics...` menu and select `Chi-square`.
 
-<img src="../assets/img/lessons/stats17.png" alt="" width="100%" style="border: solid 2px black">
+<img src="../assets/img/lessons/stats17.png" alt="" width="80%" style="border: solid 2px black">
 
 Once you're done, click on `Continue...` and `OK`.
 
-<img src="../assets/img/lessons/stats18.png" alt="" width="100%" style="border: solid 2px black">
+<img src="../assets/img/lessons/stats18.png" alt="" width="80%" style="border: solid 2px black">
 
 In the `Chi-Square Tests` table, the important value is the Asymptomatic Significance of the Pearson Chi-Square. If this value is below 0.05, the relationship is significant. Since it's < 0.001, the relationship between PDA ownership and a person's income is significant.
 
@@ -153,11 +151,11 @@ We can also use layer variables to see if there's specific subpopulations in whi
 
 Let's create another crosstab, with a Pearson chi-squared test, but also include the level of education as a layer variable.
 
-<img src="../assets/img/lessons/stats19.png" alt="" width="100%" style="border: solid 2px black">
+<img src="../assets/img/lessons/stats19.png" alt="" width="80%" style="border: solid 2px black">
 
 Once you're done, click on `Continue` and `OK`.
 
-<img src="../assets/img/lessons/stats20.png" alt="" width="100%" style="border: solid 2px black">
+<img src="../assets/img/lessons/stats20.png" alt="" width="60%" style="border: solid 2px black">
 
 Using the layer variable, we notice that only the population with a college degree has a significant correlation when comparing income with PDA ownership.
 
@@ -182,7 +180,7 @@ Note that the preview does not take the data values into account.
 
 Once you're done, click `OK` to generate the graph.
 
-<img src="../assets/img/lessons/stats25.png" alt="" width="100%" style="border: solid 2px black">
+<img src="../assets/img/lessons/stats25.png" alt="" width="70%" style="border: solid 2px black">
 
 ## Computing New Variables
 
@@ -190,15 +188,15 @@ Sometimes, there's the need to compute new variables out of existing ones. For e
 
 To compute a new variable, go to `Transform` > `Compute Variable`. 
 
-<img src="../assets/img/lessons/stats25.png" alt="" width="100%" style="border: solid 2px black">
+<img src="../assets/img/lessons/stats25.png" alt="" width="70%" style="border: solid 2px black">
 
 This will open up a new menu where you can select variables and math operations. 
 
-<img src="../assets/img/lessons/stats26.png" alt="" width="100%" style="border: solid 2px black">
+<img src="../assets/img/lessons/stats26.png" alt="" width="80%" style="border: solid 2px black">
 
 Let's create a new variable "age_jobstart".
 
-<img src="../assets/img/lessons/stats27.png" alt="" width="100%" style="border: solid 2px black">
+<img src="../assets/img/lessons/stats27.png" alt="" width="80%" style="border: solid 2px black">
 
 After configuring the variable details in the variable view, you will be able to see it in the data view.
 

@@ -60,13 +60,13 @@ IBM SPSS Statistics files are organized by **cases** (rows) and **variables** (c
 
 <img src="../assets/img/lessons/environment1.png" alt="" width="75%" style="border: solid 2px black">
 
-In the image above, you'll see the data view. Notice that the cases are numbered, where as the rows have labels. To find a particular respondant's answers, you can find their case (row). To find everyone's answer to a particular question, just look at that variable (column).
+In the image above, you'll see the data view. Notice that the cases are numbered, where as the columns have labels. To find a particular respondant's answers, you can find their case (row). To find everyone's answer to a particular question, just look at that variable (column).
 
 Some of the variables in this image include one's age, marital status, address, income, income category, and more. Variables can represent many different types, including numbers, strings, currency, and dates.
 
 ## Defining Data
 
-<img src="../assets/img/lessons/environment2.png" alt="" width="75%" style="border: solid 2px black">
+<img src="../assets/img/lessons/environment2.png" alt="" width="60%" style="border: solid 2px black">
 
 The image above showcases the variable view. Here, you'll be defining your variable types and other details. Variables created here will be shown in the data view as a new column.
 
@@ -80,7 +80,7 @@ Descriptive labels are longer, more descriptive titles for variables. As you may
 
 ### Value Labels
 
-<img src="../assets/img/lessons/environment4.png" alt="" width="75%" style="border: solid 2px black">
+<img src="../assets/img/lessons/environment4.png" alt="" width="60%" style="border: solid 2px black">
 
 Value labels provide a method for mapping your variable values to string labels. In this example, there are two acceptable values for the *marital* variable. A value of 0 means that the subject is single, and a value of 1 means that they're married.
 
@@ -90,7 +90,7 @@ Missing and invalid data are too common to ignore. Survey respondents may refuse
 
 For numeric data, empty data fields or fields containing invalid entries (like letters) are converted to `system-missing`, identifiable by a single period.
 
-<img src="../assets/img/lessons/environment5.png" alt="" width="75%" style="border: solid 2px black">
+<img src="../assets/img/lessons/environment5.png" alt="" width="50%" style="border: solid 2px black">
 
 We can use the `Missing Values` tool to automatically apply more descriptive labels on our missing data.
 

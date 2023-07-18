@@ -100,6 +100,7 @@ The only important thing to mention here is that you're able to toggle between d
 
 <img src="../assets/img/lessons/data7.png" alt="" width="100%" style="border: solid 2px black">
 
+Now, instead of seeing values of `0` and `1` for marital status, we'll get actual readable data ("Married" and "Unmarried"). You can see this with a lot of the other categorical variables too.
 
 ## Key Points / Summary
 - Numeric variable types are most common, but Strings are sometimes used
