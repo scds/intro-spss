@@ -20,10 +20,10 @@ In this lesson, we will use descriptive statistics on our data to get summaries 
 </details>
 
 ## Lesson Objectives
-- Create frequency tables
-- Use cross tabulation to find potential relationships between variables
-- Use the Pearson chi-squared test to test the significance of relationships
-- Design charts using the Chart Builder
+- Create frequency tables.
+- Use cross tabulation to find potential relationships between variables.
+- Use the Pearson chi-squared test to test the significance of relationships.
+- Design charts using the Chart Builder.
 
 <!-- ## Lesson Video
 The following video demonstrates each of the steps outlined below in text.
@@ -36,9 +36,9 @@ The following video demonstrates each of the steps outlined below in text.
 Descriptive statistics in data analysis summarize or describe features of a data set.
 
 There are many reasons to look at descriptive statistics, such as:
-- To double check if the data is correct
+- To double-check if the data is correct
   - E.g. encountering unexpected values when creating a frequency table
-- To explore data and identify potential group differences and associations
+- To explore the data and identify potential group differences and associations
 - To get a summary of variables
 
 To find a list of descriptive statistics that SPSS supports, go to `Analyze` > `Descriptive Statistics`.  
@@ -47,13 +47,13 @@ To find a list of descriptive statistics that SPSS supports, go to `Analyze` > `
 
 ## Frequency Tables
 
-Let's take a look at the frequency table for some of our variables. Frequency tables creates a table that lists the number of times an item occurs. In this case, it finds the frequency of the different categories.   
+Let's take a look at the frequency table for some of our variables. Frequency tables are tables that lists the number of times an item occurs. In this case, it finds the frequency of the different categories.   
 
-Just like earlier, go to `Analyze` > `Descriptive Statistics`, and select `Frequencies...`.
+Just like earlier, go to `Analyze` > `Descriptive Statistics` and select `Frequencies...`.
 
 <img src="../assets/img/lessons/stats2.png" alt="" width="70%" style="border: solid 2px black">
 
-To add variables to include in the frequency table, either double click on the desired variables, or click on the variable and then click on the arrow button in the middle. Same thing can be done to remove a variable.
+To add variables to include in the frequency table, either double click on the desired variables, or click on the variable and then click on the arrow button in the middle. The same thing can be done to remove a variable.
 
 For this example, include the `ownpda` and `owntv` variables. Once you're ready, click `OK`.
 
@@ -96,11 +96,11 @@ We'll also want to see a histogram of the data with its normal curve. When you'r
 
 <img src="../assets/img/lessons/stats10.png" alt="" width="100%" style="border: solid 2px black">
 
-We haven't shown the frequency table because there's too many rows. 
+We haven't shown the frequency table because there are too many rows. 
 
 ## Cross-tabulation
 
-Cross-tabulation (or crosstabs) display the relationship between two or more categorical variables. These types of tables are sometimes also known as two-way tables or contingency tables. 
+Cross-tabulation (or crosstabs) displays the relationship between two or more categorical variables. These types of tables are sometimes also known as two-way tables or contingency tables. 
 
 In this section, we'll try to find the factor that affects PDA ownership.
 
@@ -112,13 +112,13 @@ Let's see whether the income category affects PDA ownership. To do so, add `incc
 
 <img src="../assets/img/lessons/stats12.png" alt="" width="90%" style="border: solid 2px black">
 
-Once you're ready, click on `OK` to create the crosstab.
+Once you're ready, click `OK` to create the crosstab.
 
 <img src="../assets/img/lessons/stats13.png" alt="" width="90%" style="border: solid 2px black">
 
-At first glance, it's hard to analyze this data or to draw a relationship between the variables. This is because we're working with frequency numbers rather than percentages.
+At first glance, it's hard to analyze this data or draw a relationship between the variables. This is because we're working with frequency numbers rather than percentages.
 
-Close the output window and let's create another crosstab. We'll keep our variables the same, but we'll change a setting in the `Cells` menu.
+Close the output window, and let's create another crosstab. We'll keep our variables the same, but we'll change a setting in the `Cells` menu.
 
 <img src="../assets/img/lessons/stats14.png" alt="" width="90%" style="border: solid 2px black">
 
@@ -130,13 +130,13 @@ Once you're done, click `Continue` and `OK`.
 
 <img src="../assets/img/lessons/stats16.png" alt="" width="70%" style="border: solid 2px black">
 
-Now that we're able to view our data in terms of percentages, we can see more clearly that as a person's income increases, the percentage of people that own a PDA also increases.
+Now that we're able to view our data in terms of percentages, we can see more clearly that as a person's income increases, the percentage of people who own a PDA also increases.
 
 ## Significance Testing
 
-Despite there being a relationship between a person's income and PDA ownership, it's possible that these are randomly correlated. SPSS provides a variety of tools to test the significance of data.
+Despite there seemingly being a relationship between a person's income and PDA ownership, it's possible that they're randomly correlated. SPSS provides a variety of tools to test the significance of data.
 
-The test we will be using in this example is the Pearson chi-squared test. This will generate a p-value which, if it's under less than 0.05, lets us know that there's a significance in the relationship.
+The test we will be using in this example is the Pearson chi-squared test. This will generate a p-value, which, if it's less than 0.05, lets us know that there's significance in the relationship.
 
 To use the Pearson chi-squared test, open the crosstab menu as usual. Open the `Statistics...` menu and select `Chi-square`.
 
@@ -150,9 +150,9 @@ In the `Chi-Square Tests` table, the important value is the Asymptomatic Signifi
 
 ### Layer Variables
 
-We can also use layer variables to see if there's specific subpopulations in which the test is significant, and other subpopulations where the test is insignificant.
+We can also use layer variables to see if there are specific subpopulations in which the test is significant and other subpopulations in which the test is insignificant.
 
-Let's create another crosstab, with a Pearson chi-squared test, but also include the level of education as a layer variable.
+Let's create another crosstab with a Pearson chi-squared test, but also include the level of education as a layer variable.
 
 <img src="../assets/img/lessons/stats19.png" alt="" width="80%" style="border: solid 2px black">
 
@@ -174,7 +174,7 @@ In this menu, you'll be able to choose what type of graph you'd like to make, th
 
 <img src="../assets/img/lessons/stats22.png" alt="" width="100%" style="border: solid 2px black">
 
-To demonstrate, let's create a simple bar graph with job satisfaction on our X axis and household income on our Y access. We can also assign a custom title, "Income by Job Satisfaction".
+To demonstrate, let's create a simple bar graph with job satisfaction on the X axis and household income on the Y axis. We can also assign a custom title, "Income by Job Satisfaction".
 
 <img src="../assets/img/lessons/stats23.png" alt="" width="100%" style="border: solid 2px black">
 
@@ -187,7 +187,7 @@ Once you're done, click `OK` to generate the graph.
 
 ## Computing New Variables
 
-Sometimes, there's the need to compute new variables out of existing ones. For example, we can find out the age that someone started working at a company by subtracting the amount of years they've been working with their current employer from their current age.
+Sometimes, there's a need to compute new variables out of existing ones. For example, we can find out the age at which someone started working at a company by subtracting the number of years they've been working with their current employer from their current age.
 
 To compute a new variable, go to `Transform` > `Compute Variable`. 
 
@@ -201,10 +201,10 @@ Let's create a new variable "age_jobstart".
 
 <img src="../assets/img/lessons/stats27.png" alt="" width="80%" style="border: solid 2px black">
 
-After configuring the variable details in the variable view, you will be able to see it in the data view.
+After configuring the variable details in the variable view, you will be able to see them in the data view.
 
 <img src="../assets/img/lessons/stats28.png" alt="" width="100%" style="border: solid 2px black">
 
 ## Key Points / Summary
-- Use cross tabulation to find potential relationships between variables
-- Significance testing is important to see if variable relationships are valid
+- Use cross-tabulation to find potential relationships between variables.
+- Significance testing is important to see if variable relationships are valid.

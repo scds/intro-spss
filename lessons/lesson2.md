@@ -8,7 +8,7 @@ parent: Lessons
 {: .no_toc}  
 # Lesson 2 - Opening and Importing Data into SPSS 
 
-In this lesson, we'll explore how to open and import data files into SPSS.  If you haven't already, download the data files from the [preparation page](../preparation). There should be 3 files, an SPSS data document (.sav), an Excel file (.xlsx), and a text file (.txt).
+In this lesson, we'll explore how to open and import data files into SPSS.  If you haven't already, download the data files from the [preparation page](../preparation). There should be three files: an SPSS data document (.sav), an Excel file (.xlsx), and a text file (.txt).
 
 <details markdown="block">
   <summary>
@@ -21,7 +21,7 @@ In this lesson, we'll explore how to open and import data files into SPSS.  If y
 
 ## Lesson Objectives
 - Open SPSS Data Documents
-- Import Excel and text files using SPSS's importing tools. 
+- Import Excel and text files using SPSS's import tools. 
 
 <!-- ## Lesson Video
 The following video demonstrates each of the steps outlined below in text.
@@ -56,23 +56,23 @@ SPSS provides tools to deal with these problems when importing data.
 - Go to `File` > `Import Data` > `Excel` and find `data.xlsx`.
 <img src="../assets/img/lessons/open4.png" alt="" width="75%" style="border: solid 2px black">
 
-This will open up an importing tool. You'll have a few options to choose from, such as whether to remove leading/trailing spaces, whether the first row contains variable names, and more.
+This will open up an import tool. You'll have a few options to choose from, such as whether to remove leading/trailing spaces, whether the first row contains variable names, and more.
 
 <img src="../assets/img/lessons/open5.png" alt="" width="75%" style="border: solid 2px black">
 
 A preview window is provided below to see how the data will look after the import finishes. The most important setting is `Percentage of values that determine data type`. This will automatically deal with blank and invalid values, replacing them with System Missing. Notice that, if you turn off this setting, Marital Status becomes a String type rather than a numeric type, which is not what we want.
 
-Once you're done, double check your settings and click `OK`.
+Once you're done, double-check your settings and click `OK`.
 
 ## Importing Text Files (.txt)
 
-Importing a text file with data is quite similar to an Excel file, but there are more options and settings to take care of. Just like last time, let's take a look at our text file before importing.
+Importing a text file with data is quite similar to importing an Excel file, but there are more options and settings to take care of. Just like last time, let's take a look at our text file before importing.
 
 <img src="../assets/img/lessons/open6.png" alt="" width="75%" style="border: solid 2px black">
 
 We can see some of the same problems we encountered in our Excel file. Leading and trailing spaces, as well as `no answer` values. In the text file, the data isn't aligned with their rows either.
 
-If you mess around with the data, you'll notice that it's tab delimited. This'll help SPSS differentiate the difference between "Income Category" and "Income" + "Category".
+If you mess around with the data, you'll notice that it's tab-delimited. This'll help SPSS differentiate the difference between "Income Category" and "Income" + "Category".
 
 - Close your text file and go back to SPSS.
 - Go to `File` > `Import Data` > `Text data...` and find `data.txt`.
@@ -83,7 +83,7 @@ A "Text Import Wizard" will pop up to prompt you with questions about the data.
 {: .no_toc }
 ### Step 1
 
-If you've used the Text Wizard before, you're able to export the settings to a TextWizard Predefined Format file. Since this is our first time, we'll want to say `No` and click `Next`.
+If you've used the Text Wizard before, you'll be able to export the settings to a TextWizard Predefined Format file. Since this is our first time, we'll want to say `No` and click `Next`.
 
 <img src="../assets/img/lessons/open8.png" alt="" width="60%" style="border: solid 2px black">
 
@@ -97,7 +97,7 @@ Our data is delimited by tabs, with the first line in the data being our variabl
 {: .no_toc }
 ### Step 3
 
-The data starts on line 2, with each line representing one participant (or one case), and we want to import all the cases. You can also import the first X cases, or a random percentage of the data.
+The data starts on line 2, with each line representing one participant (or one case), and we want to import all the cases. You can also import the first X cases or a random percentage of the data.
 
 <img src="../assets/img/lessons/open10.png" alt="" width="60%" style="border: solid 2px black">
 
@@ -111,7 +111,7 @@ This is where we can choose our delimiter and get rid of our extra spaces.
 {: .no_toc }
 ### Step 5
 
-You might have received a warning message regarding invalid variable names. There are some limitations to variable names.
+You might have received a warning message regarding invalid variable names. It's important to note that there are some limitations to variable names.
 
 - Variable names can be up to 32 characters long.
 - Variable names can only include alphanumeric characters (letters and numbers), non-punctuation characters (like a dash - or an underscore _), and a period (.).
@@ -122,7 +122,7 @@ You might have received a warning message regarding invalid variable names. Ther
 
 <img src="../assets/img/lessons/open12.png" alt="" width="60%" style="border: solid 2px black">
 
-After clicking `OK`, you're given the chance to set the variable types and to rename the variables. For now, we'll leave them as automatic and click `Next`.
+After clicking `OK`, you're given the chance to set the variable types and rename the variables. For now, we'll leave them as automatic and click `Next`.
 
 {: .no_toc }
 ### Step 6

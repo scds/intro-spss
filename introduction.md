@@ -45,7 +45,7 @@ In 2009, SPSS Inc was acquired by IBM, making SPSS now known as IBM SPSS Statist
 
 ### SPSS vs Excel
 
-Whereas both SPSS and Excel can both do statistical analysis, they are vastly different. 
+While both SPSS and Excel can both do statistical analysis, they are vastly different. 
 
-Excel is a spreadsheet software, whereas SPSS is a statistical analysis software. The statistical analysis tools provided by SPSS are much more powerful, allowing for more complex analytics that Excel isn't capable of. 
+Excel is a spreadsheet software, whereas SPSS is a statistical analysis software. The statistical analysis tools provided by SPSS are much more powerful, allowing for more complex analytics than Excel is capable of. 
 

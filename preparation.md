@@ -12,9 +12,9 @@ Add, edit, or remove any content below for the workshop in question.
 
 ## 1. Get Access to IBM SPSS Statistics
 
-McMaster provides 24/7 instant access to fully configured university computers through Virtual Desktop. The computers come pre-installed with IBM SPSS Statistics, alongside a license. 
+McMaster provides 24/7 instant access to fully configured university computers through Virtual Desktop. The computers come pre-installed with IBM SPSS Statistics, along with a license. 
 
-Alternatively, you can use use your own license and install it locally.
+Alternatively, you can use your own license and install it locally.
 
 <details markdown="1">
 <summary>Virtual Desktop Instructions</summary>
@@ -24,9 +24,9 @@ You might need to be connected to the [McMaster VPN](https://uts.mcmaster.ca/ser
 
 To access the university computers:
 - Navigate to <https://uts.mcmaster.ca/services/teaching-and-learning/computer-labs/virtual-desktop/>
-- Scroll down and either install virtual desktop locally (recommended), or use the web client. 
+- Scroll down and either install the virtual desktop locally (recommended), or use the web client. 
 - Follow the instructions provided on the website to connect to the computers.
-- Double click on `STANDARD Desktop` and log in.
+- Double-click on `STANDARD Desktop` and log in.
 <img src="assets/img/preparation/prep2.png" alt="" width="100%">
 - Once you're connected, search for "IBM SPSS Statistics" in the search box.
 <img src="assets/img/preparation/prep3.png" alt="" width="75%">
@@ -43,7 +43,7 @@ IBM offers a free 30-day trial for IBM SPSS Statistics, after which you'll need 
 
 To get a free trial:
 - Navigate to <https://www.ibm.com/products/spss-statistics>.
-- Click on the button labeled `Try it now`.
+- Click on the button labelled `Try it now`.
 <img src="assets/img/preparation/prep1.png" alt="" width="100%" style="border: solid 2px black">
 - Create an account or log in with an existing IBM account.
 - After verifying your account, you will be able to download the SPSS client. Download and follow the instructions given.

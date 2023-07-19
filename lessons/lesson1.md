@@ -28,7 +28,7 @@ In this lesson, before we begin using SPSS, we'll talk about its user interface 
 <!-- Here are your learning objectives. Just like in the introduction, but more specific for this lesson. -->
 ## Lesson Objectives
 - Learn about the basic structure of a data file in SPSS.
-- Understand the differences between the data view and variable view.
+- Understand the differences between the data view and the variable view.
 - Learn about labels for variables, data, and missing/invalid data.
 
 <!-- A video for your lesson (if applicable) -->
@@ -60,7 +60,7 @@ IBM SPSS Statistics files are organized by **cases** (rows) and **variables** (c
 
 <img src="../assets/img/lessons/environment1.png" alt="" width="75%" style="border: solid 2px black">
 
-In the image above, you'll see the data view. Notice that the cases are numbered, where as the columns have labels. To find a particular respondant's answers, you can find their case (row). To find everyone's answer to a particular question, just look at that variable (column).
+In the image above, you'll see the data view. Notice that the cases are numbered, whereas the columns have labels. To find a particular respondent’s answers, you can find their case (row). To find everyone's answer to a particular question, just look at that variable (column).
 
 Some of the variables in this image include one's age, marital status, address, income, income category, and more. Variables can represent many different types, including numbers, strings, currency, and dates.
 
@@ -68,7 +68,7 @@ Some of the variables in this image include one's age, marital status, address, 
 
 <img src="../assets/img/lessons/environment2.png" alt="" width="60%" style="border: solid 2px black">
 
-The image above showcases the variable view. Here, you'll be defining your variable types and other details. Variables created here will be shown in the data view as a new column.
+The image above showcases the variable view. Here, you'll be defining your variable names, types, values, and other details. Variables created here will be shown in the data view as a new column.
 
 ### Descriptive Labels
 
@@ -76,13 +76,13 @@ The image above showcases the variable view. Here, you'll be defining your varia
 
 In addition to defining the type of data, you can also define descriptive variable labels and value labels for variable names and data values.
 
-Descriptive labels are longer, more descriptive titles for variables. As you may have noticed, variables names are short and concise. When creating statistical reports and charts, SPSS will use the descriptive labels, whereas variable names are mainly used within the data sheet view.
+Descriptive labels are longer, more descriptive titles for variables. As you may have noticed, variable names are short and concise. When creating statistical reports and charts, SPSS will use descriptive labels, whereas variable names are mainly used within the data sheet view.
 
 ### Value Labels
 
 <img src="../assets/img/lessons/environment4.png" alt="" width="60%" style="border: solid 2px black">
 
-Value labels provide a method for mapping your variable values to string labels. In this example, there are two acceptable values for the *marital* variable. A value of 0 means that the subject is single, and a value of 1 means that they're married.
+Value labels provide a method for mapping your variable values to string labels. In this example, there are two acceptable values for the *marital* variable. A value of 0 signifies that the subject is unmarried, whereas a value of 1 signifies that they're married.
 
 ### Missing and Invalid Data
 
@@ -92,13 +92,13 @@ For numeric data, empty data fields or fields containing invalid entries (like l
 
 <img src="../assets/img/lessons/environment5.png" alt="" width="50%" style="border: solid 2px black">
 
-We can use the `Missing Values` tool to automatically apply more descriptive labels on our missing data.
+We can use the `Missing Values` tool to dedicate values for missing and invalid data, which can then be assigned value labels.
 
 <!-- Summarize your learning objectives here. It acts as a reminder to the learner about what they just learned, as well as a checklist for you to make sure you covered everything you wished to cover. -->
 ## Key Points / Summary
 
-- In the data view, you can can assign data for each variable in cases.
+- In the data view, you can assign data for each variable in cases.
 - In the variable view, you can define the variables in your data.
-- SPSS provides a tool to replace missing data, which is ignored in later data analyses.
+- SPSS provides a tool to replace missing data, which SPSS takes into account in later data analyses.
 
 
