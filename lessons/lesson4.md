@@ -150,7 +150,7 @@ In the `Chi-Square Tests` table, the important value is the Asymptomatic Signifi
 
 ### Layer Variables
 
-We can also use layer variables to see if there are specific subpopulations in which the test is significant and other subpopulations in which the test is insignificant.
+We can also use layer variables to see if there are specific population samples in which the test is significant and other population samples in which the test is insignificant.
 
 Let's create another crosstab with a Pearson chi-squared test, but also include the level of education as a layer variable.
 

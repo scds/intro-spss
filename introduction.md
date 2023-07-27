@@ -49,3 +49,4 @@ While both SPSS and Excel can both do statistical analysis, they are vastly diff
 
 Excel is a spreadsheet software, whereas SPSS is a statistical analysis software. The statistical analysis tools provided by SPSS are much more powerful, allowing for more complex analytics than Excel is capable of. 
 
+Another upside to SPSS is its simple to use graphical user interface. It allows you to run statistical analysis tools without having to write any code or know any syntax!
