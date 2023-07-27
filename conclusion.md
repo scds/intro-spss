@@ -25,7 +25,11 @@ You should now be able to:
 # Additional Resources
 To learn more about any particular topic, take a look at the links below.
 
-## Topics
+## LinkedIn Learning
+Active McMaster students, faculty, and staff have free, unlimited access to video tutorials related to business, media, and technology through LinkedIn Learning, a self-service training site.
 
-## Related Workshops
+- [SPSS Essentials Training (2014)](https://www.linkedin.com/learning/spss-statistics-essential-training): Beginner
+- [SPSS Essentials Training (2019)](https://www.linkedin.com/learning/spss-statistics-essential-training-2): Beginner and Intermediate
+<!-- 
+## Related Workshops -->
 

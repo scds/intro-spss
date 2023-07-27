@@ -14,6 +14,8 @@ has_children: true
 
 This beginner-level workshop will introduce you to the basics of SPSS statistical software, how it works, and some basic descriptive statistics and statistical procedures. No prior knowledge of SPSS is required.
 
+This workshop is offered by the Data Analysis Support Hub (DASH). [Get in touch with DASH.](https://library.mcmaster.ca/services/dash#:~:text=Please%20continue%20to%20email%20us,%40mcmaster.ca%20for%20assistance)
+
 ## Prerequisites
 - Access to [IBM SPSS Analytics](https://www.ibm.com/products/spss-statistics) (this will be covered in the [Preparation](preparation) page)
 - Download the data files (this will be covered in the [Preparation](preparation) page)
