@@ -19,6 +19,12 @@ Workshop live recordings are listed here. They are provided as an **alternative*
 <summary>November 2023</summary> <!-- Change "Month Year" with the date of the recording ---> 
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/51875be4-6aff-4d0b-bc91-32abe1b1d854/public"></iframe>
 [View original here.](https://echo360.ca/media/51875be4-6aff-4d0b-bc91-32abe1b1d854/public)
+
+### Download data:  
+- [demo.sav](data/demo.sav)
+- [demo.txt](data/demo.txt)
+- [demo.xlsx](data/demo.xlsx)
+
 </details>
 
 <!-- ----------------------------------------------------------------- -->
